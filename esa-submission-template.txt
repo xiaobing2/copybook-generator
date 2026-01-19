@@ -1,12 +1,12 @@
 作品名称：字帖生成器 - 可打印 A4 米字格/田字格/方格
 
 作品访问 URL（ESA Pages 部署地址）：
-例如：https://your-copybook.pages.esa.aliyun.com
+https://copybook-generator.2b7c6ce6.er.aliyun-esa.net
 
 Github 仓库地址（需为公开仓库）：
-例如：https://github.com/your-name/copybook-generator-esa
+https://github.com/xiaobing2/copybook-generator
 
-作品说明（可直接提交，可按需微调）：
+作品说明：
 
 一、项目简介
 字帖生成器是一个基于 Vue 3 + Vite 的纯前端字帖生成工具：用户输入文字后，可选择米字格/田字格/方格/空白边框，设置每页行列、字号、描红透明度，系统自动分页生成可打印的 A4 字帖，并支持一键打印/保存为 PDF（浏览器打印）。项目构建产物为纯静态站点，适合部署在阿里云 ESA Pages 上，通过边缘节点加速实现快速访问与稳定服务。
